@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="t d">
+<title id="t">Re:Local matching flow</title><desc id="d">농지 등록, 신뢰 정보, AI 기반 적합도, 매칭 후 소통의 4단계 개념 흐름</desc>
+<defs><linearGradient id="canvas" x1="0" x2="1"><stop stop-color="#F5F8F1"/><stop offset="1" stop-color="#EEF3E6"/></linearGradient></defs>
+<rect width="1200" height="250" rx="22" fill="url(#canvas)"/>
+<g font-family="NanumSquare,Malgun Gothic,Noto Sans CJK KR,sans-serif">
+<g transform="translate(24 24)">
+<rect width="269" height="201" rx="20" fill="#fff" stroke="#DEE7D9"/>
+<circle cx="42" cy="47" r="24" fill="#E9F0DF"/><path d="M28 53 L42 35 L56 53Z M33 52 V62 H51 V52 M41 47 V62" stroke="#3E714F" stroke-width="3" fill="none" stroke-linejoin="round"/>
+<text x="80" y="43" fill="#4A8260" font-size="14" font-family="DejaVu Sans,sans-serif" font-weight="bold">01 / REGISTER</text>
+<text x="24" y="113" fill="#244D35" font-size="26" font-weight="bold">농지 등록</text>
+<text x="24" y="150" fill="#5B7260" font-size="17">조건 · 위치 · 거래 정보</text>
+<rect x="24" y="171" width="72" height="5" rx="2" fill="#B4CE9C"/>
+</g>
+<path d="M297 125 H320 M314 119 L320 125 L314 131" stroke="#84A489" stroke-width="3" fill="none"/>
+<g transform="translate(323 24)">
+<rect width="269" height="201" rx="20" fill="#fff" stroke="#DEE7D9"/>
+<circle cx="42" cy="47" r="24" fill="#E9F0DF"/>
+<path d="M42 31 L56 37 V49 Q56 59 42 64 Q28 59 28 49 V37Z" stroke="#3E714F" stroke-width="3" fill="none"/><path d="M35 48 L40 53 L49 43" stroke="#3E714F" stroke-width="3" fill="none"/>
+<text x="80" y="43" fill="#4A8260" font-size="14" font-family="DejaVu Sans,sans-serif" font-weight="bold">02 / TRUST</text>
+<text x="24" y="113" fill="#244D35" font-size="26" font-weight="bold">신뢰 정보</text>
+<text x="24" y="150" fill="#5B7260" font-size="17">이력 · 교육 · 자격 · 장비</text>
+<rect x="24" y="171" width="72" height="5" rx="2" fill="#B4CE9C"/>
+</g>
+<path d="M596 125 H619 M613 119 L619 125 L613 131" stroke="#84A489" stroke-width="3" fill="none"/>
+<g transform="translate(622 24)">
+<rect width="269" height="201" rx="20" fill="#fff" stroke="#DEE7D9"/>
+<circle cx="42" cy="47" r="24" fill="#E9F0DF"/>
+<path d="M29 55 L39 45 L46 52 L57 36 M50 36 H57 V43" stroke="#3E714F" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="80" y="43" fill="#4A8260" font-size="14" font-family="DejaVu Sans,sans-serif" font-weight="bold">03 / MATCH</text>
+<text x="24" y="113" fill="#244D35" font-size="26" font-weight="bold">적합도 분석</text>
+<text x="24" y="150" fill="#5B7260" font-size="17">K-Means + 조건 점수화</text>
+<rect x="24" y="171" width="72" height="5" rx="2" fill="#B4CE9C"/>
+</g>
+<path d="M895 125 H918 M912 119 L918 125 L912 131" stroke="#84A489" stroke-width="3" fill="none"/>
+<g transform="translate(921 24)">
+<rect width="255" height="201" rx="20" fill="#fff" stroke="#DEE7D9"/>
+<circle cx="42" cy="47" r="24" fill="#E9F0DF"/>
+<path d="M29 38 H55 V53 H42 L35 60 V53 H29Z" stroke="#3E714F" stroke-width="3" fill="none" stroke-linejoin="round"/><circle cx="36" cy="46" r="1.5" fill="#3E714F"/><circle cx="43" cy="46" r="1.5" fill="#3E714F"/><circle cx="50" cy="46" r="1.5" fill="#3E714F"/>
+<text x="80" y="43" fill="#4A8260" font-size="14" font-family="DejaVu Sans,sans-serif" font-weight="bold">04 / CONNECT</text>
+<text x="24" y="113" fill="#244D35" font-size="26" font-weight="bold">매칭 후 소통</text>
+<text x="24" y="150" fill="#5B7260" font-size="17">상호 동의 후 채팅</text>
+<rect x="24" y="171" width="72" height="5" rx="2" fill="#B4CE9C"/>
+</g>
+</g>
+</svg>
